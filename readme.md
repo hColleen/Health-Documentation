@@ -19,19 +19,19 @@ This is meant to be an overall inventory of what you can do broadly in a month. 
 This will be mostly a series of scales to make it as easy to fill out as possible.  There will be a pain scale, a fatigue scale, an emotional scale for depression and anxiety, a 'spoon' scale for how much energy you started the day with, and a free-text area for anything else you want to add.  The scales will be written in plain English rather than faces since most of us with a chronic illness don't really have a full grasp of the difference between a 1 and a 5 and a 10.
 
 ## TODO
-[] Create list of hobbies
-[] Create list of chores
-[] Create types of work list
-[] Create list of pet/service animal chores based on animal type (dog/cat to start)
-[] Create scale and free text areas for good and bad day
-[] Add emergency contact(s) area and save button
-[] Create pain scale
-[] Create fatigue scale
-[] Create emotional scales
-[] Create spoon scale
-[] Add free text area, date capture, and save button
-[] Add secure save feature for both forms
-[] Updates?
+-[] Create list of hobbies
+-[] Create list of chores
+-[] Create types of work list
+-[] Create list of pet/service animal chores based on animal type (dog/cat to start)
+-[] Create scale and free text areas for good and bad day
+-[] Add emergency contact(s) area and save button
+-[] Create pain scale
+-[] Create fatigue scale
+-[] Create emotional scales
+-[] Create spoon scale
+-[] Add free text area, date capture, and save button
+-[] Add secure save feature for both forms
+-[] Updates?
 
 ## Timeline
 I cannot promise when this project will be complete as I'm a chronically ill person with other things I __must__ do as well as other things I want to do.

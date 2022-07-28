@@ -29,6 +29,7 @@ This will be mostly a series of scales to make it as easy to fill out as possibl
 - [] Create fatigue scale
 - [] Create emotional scales
 - [] Create spoon scale
+- [] Sleep scale
 - [] Add free text area, date capture, and save button
 - [] Add secure save feature for both forms
 - [] Updates?
